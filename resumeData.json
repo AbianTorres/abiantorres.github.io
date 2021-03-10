@@ -1,127 +1,137 @@
 {
     "main": {
         "name": "Abian Torres Torres",
-        "description": "I'm a web development engineer and I use react and python to develop pages...",
+        "description": "Computer scientist and Junior Data Science with the passion of never stop learning. Currently focused on the application of artificial intelligence techniques in computer vision and natural language processing",
         "image": "profilepic.jpg",
-        "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+        "bio": "24 years old man born in Tenerife. My passion for technology led me to study Computer Science and Artificial Intelligence. But from a personal perspective, my curiosity, creativity, and perseverance are my main tools to never stop learning. That is why I am open to not stop investigating other fields. In fact, one of my main goals is to dedicate myself to research in fields such as machine learning, computer vision and neuroscience to help make this a better world.",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "abiantorres.generic@gmail.com",
         "phone": "699904288",
         "github": "abiantorres.generic@gmail.com",
         "project": "https://github.com/",
         "address": {
-            "street": "(Your Street)",
+            "street": "",
             "city": "Santa Cruz de Tenerife",
             "state": "Spain"
         },
-        "website": "https://github.com/",
-        "resumedownload": "https://github.com/",
+        "website": "https://abiantorres.github.io/",
+        "resumedownload": "https://drive.google.com/file/d/1xVL5P9ugzR8FmgbEiyrm-vB6vgZiJnMl/view?usp=sharing",
         "social": [
             {
-                "name": "facebook",
-                "url": "https://github.com/",
-                "className": "fa fa-facebook"
-            },
-            {
                 "name": "twitter",
-                "url": "http://twitter.com",
+                "url": "https://twitter.com/_abiantorres",
                 "className": "fa fa-twitter"
             },
             {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/abián-torres-torres-282b02162",
                 "className": "fa fa-linkedin"
             },
             {
-                "name": "instagram",
-                "url": "http://instagram.com/",
-                "className": "fa fa-instagram"
-            },
-            {
                 "name": "github",
-                "url": "https://github.com/",
+                "url": "https://github.com/abiantorres",
                 "className": "fa fa-github"
             }
         ]
     },
     "resume": {
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skillmessage": "Skills in the design and implementation of artificial intelligence sytems using my knowledge as developer.",
         "education": [
             {
                 "school": "Universidad de La Laguna",
                 "degree": "Computer Science Degree",
                 "graduated": "July 2018",
-                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+                "description": "This degree allows the development of professions related to artificial intelligence, robotics, multimedia design, graphics and animation, game programming, virtual reality, industrial applications, network security, etc., in areas as diverse as software and services, products and systems, telecommunications, etc."
             },
             {
                 "school": "Universidad Internacional de La Rioja",
                 "degree": "Msc in Artificial Intelligence",
                 "graduated": "November 2019",
-                "description": "Received 10 Outstandings in Care of Magical Creatures, Transfiguration, Potions, Charms, Herbology, Astronomy, History of Magic, Arithmancy, Ancient Runes, and Wandmaking."
+                "description": "learning tools and developing practical algorithms to: Manage and program advanced tools for the creation of intelligent software based on programming languages ​​such as Python or R, through OpenCV for artificial vision, NLTK for natural language processing or TensorFlow for automatic learning, as well as automatic generation of plans in STRIPS. Design and implement an artificial cognitive architecture using cloud infrastructure and big data ecosystems. Design, develop and implement a system with the implication of artificial intelligence techniques, cloud computing and machine learning. Obtain the ability to integrate new artificial intelligence developments into existing computer systems capable of responding to current demand. Use programming interfaces to provide an artificial system with superior cognitive functions. Identify the factors that turn an artificial intelligence solution into a viable project at the business level, as well as obtain the skills for the direction and management of artificial intelligence projects and deep knowledge of the different business models. Work with computational models of perception in different modalities: vision and speech."
             }
         ],
         "work": [
             {
-                "company": "Department of Magical Law Enforcement",
-                "title": "Ministry of Magic",
-                "years": "December 2010 - Present",
-                "description": "Work to put an end to pro-pureblood laws through negotiation, petitions, and enforcing and creating fair laws for the wizarding community.s"
+                "company": "Itop Consulting",
+                "title": "Business Intelligence Developer (External practices)",
+                "years": "03/2018 - 05/2018",
+                "description": "Use of technologies such as MongoDB, Express, NodeJS or Angular to build a data analytics web platform, from backend to frontend (MEAN Stack Development). Use of Pentaho Dashboard to generate graphics from which users could gain valuable knowledge about the business (Data visualization). Designing of database schemes and queries in MySQL and MongoDB (Data Warehouse environments)."
             },
             {
-                "company": "Department for the Regulation and Control of Magical Creatures",
-                "title": "Ministry of Magic",
-                "years": "March 2007 - December 2010",
-                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+                "company": "PROEDUCA (UNIR)",
+                "title": "Data Science (Online external practices)",
+                "years": "04/2019 - 05/2019",
+                "description": "Working with temporal series related to the student enrollment. Tools such as Pandas, Numpy, Sckit-learn, Seaborn or Matplotlib were useful to prepare and understand data (Data analysis and processing). Design and implementation of machine learning algorithms with the purpose of predicting the enrollment rate per study (Modeling, keras and Scikit-learn as tools). Analysis of the results to provide to the company valuable knowledge in order to improve enrollment statistics (Reporting)."
             }
         ],
         "skills": [
             {
+            "name": "Machine Learning",
+            "level": "80%"
+            },
+            {
                 "name": "Python",
+                "level": "80%"
+            },
+            {
+                "name": "Tensorflow",
+                "level": "80%"
+            },
+            {
+                "name": "Keras",
+                "level": "80%"
+            },
+            {
+              "name": "Natural Language Processing",
+              "level": "70%"
+            },
+            {
+              "name": "Computer Vision",
+              "level": "70%"
+            },
+            {
+              "name": "Computational Robotics",
+              "level": "60%"
+            },
+            {
+                "name": "Java",
                 "level": "60%"
             },
             {
-                "name": "VueJs",
-                "level": "55%"
+                "name": "C++",
+                "level": "60%"
             },
             {
-                "name": "ReactJs",
-                "level": "50%"
+                "name": "Gazebo",
+                "level": "60%"
             },
             {
-                "name": "CSS",
-                "level": "90%"
+                "name": "Trax",
+                "level": "60%"
             },
             {
-                "name": "JAVA",
-                "level": "80%"
+                "name": "MongoDB",
+                "level": "60%"
+            },
+            {
+                "name": "MySQL",
+                "level": "60%"
             }
         ]
     },
     "portfolio": {
         "projects": [
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "Forensic Deep Learning for Deep Fakes Detection",
+                "category": "Study that examines what performance can bring the combination of different characterization methods in a time-sequencing analysis using networks recurrent and convolutional neurons, verifying first-hand that the detection of deep fakes is not not a trivial problem.",
                 "image": "project1.jpg",
-                "url": "https://www.google.com"
+                "url": "https://github.com/abiantorres/deepfake-detection"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "Simulation of autonomous vehicle systems",
+                "category": "Development of a software capable of integrate two levels of simulation for autonomous vehicles. In the low level, a ROS (Robot Operating System) stack was built to run vehicles in order to analyze their behavior in different environments designed with Gazebo. Then, data is sent to a second module in charge of perform a discrete event simulation to measure impact in a high level, such as economic cost.",
                 "image": "project2.jpg",
-                "url": "https://www.google.com"
-            },
-            {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project3.jpg",
-                "url": "https://www.google.com"
-            },
-            {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project4.jpg",
-                "url": "https://www.google.com"
+                "url": "https://github.com/abiantorres/autonomous-vehicles-system-simulation"
             }
         ]
     }
