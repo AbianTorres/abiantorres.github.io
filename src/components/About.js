@@ -18,7 +18,7 @@ export default function About(props) {
         <section id="about">
             <div className="row">
                 <div className="three columns">
-                    <img className="profile-pic" src={profilepic} alt="Hermione Granger Profile Picture" />
+                    <img className="profile-pic" src={profilepic} alt="Abián Torres Profile Picture" />
                 </div>
                 <div className="nine columns main-col">
                     <h2>About Me</h2>
@@ -47,4 +47,3 @@ export default function About(props) {
         </section>
     );
 }
-
